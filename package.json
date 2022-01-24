@@ -1,0 +1,23 @@
+{
+  "name": "MemoryGame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NjokiGithukuE/MemoryGame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NjokiGithukuE/MemoryGame/issues"
+  },
+  "homepage": "https://github.com/NjokiGithukuE/MemoryGame#readme",
+  "dependencies": {
+    "jasmine": "^4.0.2"
+  }
+}
